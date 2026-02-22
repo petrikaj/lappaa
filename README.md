@@ -116,7 +116,7 @@ Export and the iOS Share Sheet takes over — send directly to Instagram, TikTok
 
 ## 💬 Elevating Private Voice Notes (DMs & Chats)
 
-Voice notes are everywhere — WhatsApp, Instagram DMs, Signal, Telegaram, iMessage — but they're often inconvenient. When someone receives an audio note, they usually have to pause their music, find a quiet place, or dig out headphones. Without this extra step, the audio just sits there ignored.
+Voice notes are everywhere — WhatsApp, Instagram DMs, Signal, Telegram, iMessage — but they're often inconvenient. When someone receives an audio note, they usually have to pause their music, find a quiet place, or dig out headphones. Without this extra step, the audio just sits there ignored.
 
 Lappaa introduces an **"unboxing"** for raw audio. It turns your voice note into a **chat video** — a short, captioned clip friends can "watch" silently. You unbox the context for them. Send it like any other video. It makes voice notes much more engaging and impossible to ignore.
 
