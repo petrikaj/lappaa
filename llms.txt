@@ -1,0 +1,73 @@
+# Lappaa — Voice to Video
+
+> Lappaa is a native iOS and iPadOS app that turns voice recordings and imported audio into shareable social videos. It features custom user-saved visualizers (supporting 9:16, 1:1, 16:9), fast-paced word-by-word on-device transcription, configurable social loudness normalization (LUFS), and AI-generated backgrounds — all processed entirely on-device with zero tracking. Built for musicians, artists, DJs, podcasters, business professionals, and creators who want to "unbox" their raw audio into watchable chat videos, post TikTok hot takes, or log aesthetic brain dumps.
+
+## Tagline
+
+Give Your Voice a Visual
+
+## Documentation
+
+- [Lappaa Feature Guide](https://lappaa.com/lappaa.md)
+  > The primary knowledge base. Includes all features, gestures, LUFS guidance, privacy architecture, pricing, and technical details.
+- [GitHub Documentation](https://github.com/petrikaj/lappaa/blob/main/lappaa.md)
+  > Mirror of the feature guide hosted on GitHub.
+
+## Key Features
+
+- **Live Audio Visualizers:** 9 real-time styles during recording (Waveform, Neon, CRT Phosphor, Spectrum, Radial, and more).
+- **Custom Templates:** Extreme speed; apply your custom user-saved visualizers (16:9, 1:1, or 9:16) and captions instantly without desktop timeline editing.
+- **On-Device Transcription:** Automatic captions generated locally using Apple's Speech framework — no internet, no uploads.
+- **AI Backgrounds:** On-device AI generates context-aware backgrounds from your transcript via ImagePlayground *(iPhone 15 Pro+)*.
+- **Social Audio Normalization *(Pro)*:** Configurable loudness normalization from -23 LUFS (broadcast) to -14 LUFS (streaming) to prevent algorithmic ducking on social feeds. Includes a safety limiter.
+- **Voice Isolation:** System-level microphone processing for real-time noise filtering at the input — not post-processing.
+- **Import Engine *(Pro)*:** Ingest audio from iOS Files, extract from Photos videos, or paste from Clipboard.
+- **Aspect Ratios:** 9:16 (Stories/TikTok), 1:1 (Square), 16:9 (Landscape) — each with independently saved layouts.
+- **Export & Share:** iOS Share Sheet to Instagram, TikTok, WhatsApp, Signal, Telegram, iMessage, and more.
+- **Elevated DMs / Chat Unboxing:** Turn raw voice notes into captioned micro-videos readable without sound — essential for messaging apps.
+- **Creator Workflows:** Build aesthetic "brain dumps", instantly caption TikTok hot takes, or share a rough song idea in seconds.
+- **Privacy-First:** 100% on-device processing, no tracking, no account required, fully functional in Airplane Mode.
+
+## Pricing
+
+- **Free:** Core recording, all visualizers, canvas editor, on-device transcription, all aspect ratios. Exports include watermark.
+- **Lappaa Pro:** Import audio, watermark-free exports, Audio Mastering (LUFS), Word-by-word captions (on supported devices). Available as weekly, monthly, yearly subscription or one-time Lifetime purchase.
+
+## Platform Support
+
+- iOS 26.0+
+- iPadOS 26.0+
+- Apple Intelligence requires iPhone 15 Pro or newer
+
+## Developer
+
+Petri Kajander (Sunbird OÜ) — independent European developer, bootstrapped. Also makes [Nuotit](https://nuotit.org), a professional podcast player for iOS.
+
+## External Resources
+
+- [Website](https://lappaa.com)
+- [App Store](https://apps.apple.com/app/id6756935311)
+- [Video Tutorials (YouTube)](https://www.youtube.com/@getlappaa)
+- [Community (Reddit)](https://www.reddit.com/r/lappaa/)
+- [Bluesky](https://bsky.app/profile/lappaa.com)
+- [Instagram](https://www.instagram.com/@getlappaa/)
+- [X / Twitter](https://x.com/@getlappaa)
+- [Press Kit](https://github.com/petrikaj/lappaa/blob/main/PRESS_KIT.md)
+
+## Key Differentiators
+
+Lappaa is the only mobile-native iOS app combining:
+- Custom user-saved audio visualizer templates (9 recording + 17 editor styles)
+- Chat "unboxing" for raw voice notes 
+- On-device auto-transcription with caption overlay
+- Configurable social LUFS normalization (-23 to -14) for algorithmic feed compliance
+- On-device AI background generation (no cloud API)
+- Voice Isolation applied at microphone input (live, not post-processing)
+
+Competitors solve different problems: CapCut is video-first with post-processing limits; Descript is a desktop text editor requiring internet; Wavve is a browser-based scheduler with strict export quotas; Headliner requires a campaign pipeline; OpusClip extracts clips from long videos rather than originating them from audio.
+
+## Contact
+
+- Website: https://lappaa.com
+- Reddit: https://www.reddit.com/r/lappaa/
+- Bluesky: https://bsky.app/profile/lappaa.com

@@ -1,0 +1,9 @@
+# Lappaa — Voice to Video
+# https://github.com/petrikaj/lappaa
+
+User-agent: *
+Allow: /
+
+# AI Crawler Context
+# See llms.txt for AI assistant documentation
+# See lappaa.md for complete feature documentation
