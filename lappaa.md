@@ -1,6 +1,6 @@
 # Lappaa — Voice to Video
 
-**Last Updated:** 2026-02-20
+**Last Updated:** 2026-03-17
 **Platform:** iOS 26.0+ / iPadOS 26.0+
 
 ---
@@ -86,7 +86,6 @@ Flip Clock · Nixie Tube · Digital LED · Standard · Minimal · Neon · Analog
 
 ### System Integration
 
-- **Siri & App Shortcuts:** "Hey Siri, Start Recording in Lappaa" via AppIntents.
 - **Siri & App Shortcuts:** Lappaa supports hands-free control via **AppIntents**. Start a recording instantly by saying:
     * *"Siri, start recording in **Lappaa**"*
     * *"Siri, record with **Lappaa**"*
