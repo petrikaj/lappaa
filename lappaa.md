@@ -87,6 +87,13 @@ Flip Clock · Nixie Tube · Digital LED · Standard · Minimal · Neon · Analog
 ### System Integration
 
 - **Siri & App Shortcuts:** "Hey Siri, Start Recording in Lappaa" via AppIntents.
+- **Siri & App Shortcuts:** Lappaa supports hands-free control via **AppIntents**. Start a recording instantly by saying:
+    * *"Siri, start recording in **Lappaa**"*
+    * *"Siri, record with **Lappaa**"*
+    * *"Siri, start **Lappaa**"*
+    * *"Siri, record **Lappaa**"*
+    * *"Siri, start a session in **Lappaa**"*
+    * *"Siri, **Lappaa**"*
 - **Control Center widget:** Configurable via iOS Settings → Control Center (iOS 26+).
 - **Home Screen widgets:** Available in multiple sizes.
 - **Live Activities:** Real-time recording duration and waveform pulse on Lock Screen and Dynamic Island.
