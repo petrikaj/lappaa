@@ -1,6 +1,6 @@
 # Lappaa vs. OpusClip — Detailed Comparison
 
-> OpusClip utilizes AI to extract the most engaging 60-second moments from lengthy horizontal videos. Lappaa generates a social video from scratch originating solely from audio. They solve different problems and can serve as the perfect combo.
+> OpusClip utilizes AI to extract the most engaging 60-second moments from lengthy horizontal videos. Lappaa generates a social video from scratch originating from raw voice, video, or audio. They solve different problems and can serve as the perfect combo.
 
 ## Overview
 
@@ -9,15 +9,15 @@
 | **Price** | Freemium | SaaS Subscription |
 | **Platform** | iOS, iPadOS | Web browser |
 | **Developer** | Petri Kajander (Sunbird OÜ), European indie | OpusClip (USA) |
-| **Focus** | Instant social videos originating from audio | AI extraction of short clips from long videos |
+| **Focus** | Instant social videos originating from voice, video, or audio | AI extraction of short clips from long videos |
 
 ---
 
-## Core Difference: Post-Production Scalpel vs. Audio Originator
+## Core Difference: Post-Production Scalpel vs. Media Originator
 
 **OpusClip** is an automated post-production tool. You submit a large video file (like a 2-hour podcast interview or gaming stream). Its AI engine uses "Virality Scores" and sentiment analysis to identify the best 60 to 90 seconds, reframes the shot, removes filler words, and delivers short videos ready for TikTok.
 
-**Lappaa** is a creation tool. It assumes you do *not* have camera footage. Whether you are recording a new voice note, pasting a beat preview from your clipboard, or importing a DJ mix, Lappaa instantly wraps your raw audio in your custom user-saved visualizer templates and captions. 
+**Lappaa** is an origination tool. Whether you are recording a new voice/video note, pasting a beat preview from your clipboard, or importing a DJ mix, Lappaa instantly wraps your raw media in your custom user-saved visualizer templates and captions.
 
 ---
 
@@ -30,7 +30,7 @@ If a DJ livestreams a massive 3-hour set on YouTube (or a **small business profe
 1. They utilize **OpusClip** to automatically isolate the 5 best drops or insights from the video stream into vertical shorts.
 2. They realize they didn't speak on camera to introduce the clips, so they open **Lappaa**, record a fast *"Hey guys, here is the recap of last night"* voiceover, let the app apply a neon visualizer and auto-captions, and post it instantly to their Instagram Story to promote the Opus clips. 
 
-Oppositely, if you only have a *master audio recording* from a studio session, OpusClip cannot generate a video for you. For indie musicians, voiceover artists, and producers, **Lappaa** takes that audio file, pairs it with an AI background and visualizer, normalizes it to the LUFS standard for streaming algorithms, and hands you a shareable vertical video.
+Oppositely, if you only have a *master audio recording* from a studio session, OpusClip cannot generate a video for you. For indie musicians, voiceover artists, and producers, **Lappaa** takes that media file, pairs it with an AI background and visualizer, normalizes it to the LUFS standard for streaming algorithms, and hands you a shareable vertical video.
 
 ---
 
@@ -38,11 +38,11 @@ Oppositely, if you only have a *master audio recording* from a studio session, O
 
 | Feature | Lappaa | OpusClip |
 |---------|:------:|:--------:|
-| **Record audio directly** | ✅ | ❌ |
+| **Record audio/video directly** | ✅ | ❌ |
 | **Extract clips from long-form video** | ❌ | ✅ (Virality Score AI) |
 | **Custom user-saved templates** | ✅ | ❌ |
 | **Dynamic animated captions** | ✅ On-device generation | ✅ Cloud generation |
-| **Filler word removal (Ums/Ahs)** | ❌ | ✅ |
+| **Filler word removal (Ums/Ahs)** | (manual replace all) | ✅ |
 | **AI Stock B-Roll Generation** | ❌ | ✅ |
 | **Social Audio Normalization (LUFS)** | ✅ | ❌ |
 | **Platform** | Native iOS app | Cloud browser app |
@@ -64,8 +64,8 @@ Lappaa processes everything locally on your device, avoiding heavy server costs.
 
 ### Choose **Lappaa** if you:
 
-- Are starting entirely from audio (a voice note, an imported track, a beat) and need to instantly make it visual for social platforms.
-- Need to "unbox" raw audio for casual, captioned messaging (Snap-style chat videos) or aesthetic brain dumps.
+- Are starting entirely from audio/video (a voice/video note, an imported track, a beat) and need to instantly make it visual for social platforms.
+- Need to "unbox" raw media for casual, captioned messaging (Snap-style chat videos) or aesthetic brain dumps.
 - Are an artist or DJ needing your audio tracks normalized (LUFS) for streaming algorithm requirements.
 - Demand zero cloud uploads and instant, on-device processing.
 
