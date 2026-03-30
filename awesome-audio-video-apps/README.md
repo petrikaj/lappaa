@@ -1,6 +1,6 @@
 # Awesome Audio-to-Video Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools for turning audio into social-ready video — for musicians, artists, DJs, podcasters, and anyone who wants their audio to be seen.
+> A curated list of tools for turning voice, video, and audio into social-ready video — for musicians, artists, DJs, podcasters, and anyone who wants their audio to be seen.
 
 Whether you need to share a beat preview on Instagram, generate audiogram clips from a podcast, or send a voice note that people want to watch — there's a tool for you.
 
@@ -29,13 +29,13 @@ Whether you need to share a beat preview on Instagram, generate audiogram clips 
 
 | App | Key Strength | Price | Link |
 |-----|-------------|-------|------|
-| **[Lappaa](https://lappaa.com)** | Record or import audio → custom user-saved visualizers, on-device captions, AI backgrounds, configurable social audio normalization (-23 to -14), export to social | Freemium | [App Store](https://apps.apple.com/app/id6756935311) |
+| **[Lappaa](https://lappaa.com)** | Record or import audio/video → custom user-saved visualizers, on-device captions, AI backgrounds, configurable social audio normalization (-23 to -14), export to social | Freemium | [App Store](https://apps.apple.com/app/id6756935311) |
 | **[CapCut](https://www.capcut.com)** | Full short-form video editor, voice isolator (post-processing), captions, rich effects library, TikTok integration | Freemium | [App Store](https://apps.apple.com/app/capcut-video-editor/id1500855883) |
 | **[Mematic](https://www.mematic.net)** | Quick text-on-video meme creation, simple social sharing | Freemium | [App Store](https://apps.apple.com/app/mematic-the-meme-maker/id491076730) |
 
 ### What Makes Each iOS App Different?
 
-- **Lappaa** — The audio-first option. Starts from voice or music, not from camera footage. The only iOS app combining live audio visualizers, on-device transcription, AI backgrounds (no cloud), custom user-saved templates, and user-configurable social audio normalization. European, privacy-first, no account required.
+- **Lappaa** — The mobile originator. Starts from voice, video, or music. The only iOS app combining live audio visualizers, on-device transcription, AI backgrounds (no cloud), custom user-saved templates, and user-configurable social audio normalization. European, privacy-first, no account required.
 - **CapCut** — The video-first option. Bring video footage or existing recordings and cut, caption, and style them. Huge effects library, deep TikTok integration. Voice isolation works on pre-recorded files (post-processing). Developed by ByteDance.
 - **Mematic** — Not for audio, but useful for quick visual commentary alongside audio content.
 
@@ -102,7 +102,7 @@ A side-by-side look at the tools most relevant to mobile audio-to-social workflo
 | **Mobile-Native (iOS)** | ✅ | ✅ | ❌ Web | ❌ Web | ❌ Web | ❌ Desktop |
 | **Record Audio** | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
 | **Live Visualizer (at record time)** | ✅ 9 styles | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Animated Visualizer Templates** | ✅ 17 styles | ⚠️ Basic | ⚠️ 1 style | ✅ | ❌ | ✅ |
+| **Animated Visualizer Templates** | ✅ multiple styles | ⚠️ Basic | ⚠️ 1 style | ✅ | ❌ | ✅ |
 | **On-Device Transcription** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **AI Background (on-device)** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Social Audio Normalization** | ✅ -23 to -14 | ⚠️ Auto-Leveling | ❌ | ❌ | ❌ | ✅ |
@@ -137,14 +137,14 @@ LUFS (Loudness Units Full Scale) is the standard for measuring perceived audio l
 
 ## Why This List Exists
 
-Getting audio onto social media as compelling video content shouldn't require a desktop NLE, a cloud subscription, and three separate apps. This list maps the landscape so you can find the right tool for how you create.
+Getting voice or audio onto social media as compelling video content shouldn't require a desktop NLE, a cloud subscription, and three separate apps. This list maps the landscape so you can find the right tool for how you create.
 
 **Key things to consider:**
 
 - 📱 **Mobile vs. desktop** — If you create on your phone, web-based tools add unnecessary friction
 - 🔒 **Privacy** — Voice recordings are sensitive. Know where your audio goes when you upload it
 - 🎚️ **LUFS** — Wrong loudness level = your content sounds off in the feed. See the guide above
-- 🎵 **Audio-first vs. video-first** — Some tools start from video; others (like Lappaa) start from audio
+- 🎵 **Content Origination** — Some tools require existing video footage; others (like Lappaa) let you originate content directly from voice, camera video, or imported audio
 - 🤖 **Cloud AI vs. on-device AI** — On-device means no upload, no account, works offline
 
 ---
