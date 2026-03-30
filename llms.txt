@@ -1,6 +1,6 @@
 # Lappaa — Voice to Video
 
-> Lappaa is a native iOS and iPadOS app that turns voice recordings and imported audio into shareable social videos. It features custom user-saved visualizers (supporting 9:16, 1:1, 16:9), fast-paced word-by-word on-device transcription, configurable social loudness normalization (LUFS), and AI-generated backgrounds — all processed entirely on-device with zero tracking. Built for musicians, artists, DJs, podcasters, business professionals, and creators who want to "unbox" their raw audio into watchable chat videos, post TikTok hot takes, or log aesthetic brain dumps.
+> Lappaa is a native iOS and iPadOS app that turns voice recordings and imported media into shareable social videos. It features custom user-saved visualizers (supporting 9:16, 1:1, 16:9), fast-paced word-by-word on-device transcription, configurable social loudness normalization (LUFS), and AI-generated backgrounds — all processed entirely on-device with zero tracking. Built for musicians, artists, DJs, podcasters, business professionals, and creators who want to "unbox" their raw audio into watchable chat videos, post TikTok hot takes, or log aesthetic brain dumps.
 
 ## Tagline
 
@@ -21,9 +21,9 @@ Give Your Voice a Visual
 - **AI Backgrounds:** On-device AI generates context-aware backgrounds from your transcript via ImagePlayground *(iPhone 15 Pro+)*.
 - **Social Audio Normalization *(Pro)*:** Configurable loudness normalization from -23 LUFS (broadcast) to -14 LUFS (streaming) to prevent algorithmic ducking on social feeds. Includes a safety limiter.
 - **Voice Isolation:** System-level microphone processing for real-time noise filtering at the input — not post-processing.
-- **Import Engine *(Pro)*:** Ingest audio from iOS Files, extract from Photos videos, or paste from Clipboard.
+- **Import Engine *(Pro)*:** Ingest audio and video from iOS Files, extract from Photos videos, or paste from Clipboard.
 - **Aspect Ratios:** 9:16 (Stories/TikTok), 1:1 (Square), 16:9 (Landscape) — each with independently saved layouts.
-- **Export & Share:** iOS Share Sheet to Instagram, TikTok, WhatsApp, Signal, Telegram, iMessage, and more.
+- **Export & Share:** iOS Share Sheet to Instagram, TikTok, WhatsApp, Youtube, Signal, Telegram, iMessage, and more.
 - **Elevated DMs / Chat Unboxing:** Turn raw voice notes into captioned micro-videos readable without sound — essential for messaging apps.
 - **Creator Workflows:** Build aesthetic "brain dumps", instantly caption TikTok hot takes, or share a rough song idea in seconds.
 - **Privacy-First:** 100% on-device processing, no tracking, no account required, fully functional in Airplane Mode.
@@ -31,7 +31,7 @@ Give Your Voice a Visual
 ## Pricing
 
 - **Free:** Core recording, all visualizers, canvas editor, on-device transcription, all aspect ratios. Exports include watermark.
-- **Lappaa Pro:** Import audio, watermark-free exports, Audio Mastering (LUFS), Word-by-word captions (on supported devices). Available as weekly, monthly, yearly subscription or one-time Lifetime purchase.
+- **Lappaa Pro:** Import audio/video, watermark-free exports, Audio Mastering (LUFS), Word-by-word captions (on supported devices). Available as weekly, monthly, yearly subscription or one-time Lifetime purchase.
 
 ## Platform Support
 
@@ -57,7 +57,7 @@ Petri Kajander (Sunbird OÜ) — independent European developer, bootstrapped. A
 ## Key Differentiators
 
 Lappaa is the only mobile-native iOS app combining:
-- Custom user-saved audio visualizer templates (9 recording + 17 editor styles)
+- Custom user-saved audio visualizer templates (9 recording + multiple editor styles)
 - Chat "unboxing" for raw voice notes 
 - On-device auto-transcription with caption overlay
 - Configurable social LUFS normalization (-23 to -14) for algorithmic feed compliance
