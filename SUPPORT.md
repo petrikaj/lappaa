@@ -7,7 +7,7 @@ Questions about Lappaa? Start here. If something's missing, [open an issue](http
 ## Basics
 
 ### What is Lappaa?
-Lappaa is an iOS and iPadOS app that turns voice recordings and audio into shareable social videos. Record or import audio, add animated visualizers and auto-generated captions, pick a background, and export a video ready for Instagram, TikTok, WhatsApp, or any messaging app.
+Lappaa is an iOS and iPadOS app that turns voice and video recordings into shareable social videos. Record or import media, add animated visualizers and auto-generated captions, pick a background, and export a video ready for Instagram, TikTok, Youtube, WhatsApp, or any messaging app.
 
 ### Do I need an account?
 No. Lappaa requires no account, no sign-in, and no email address. Download and start recording.
@@ -31,7 +31,7 @@ Voice Isolation turns on Apple's system-level microphone processing, which filte
 Note: Voice Isolation applies to the microphone only. It is not applied when you import existing audio files.
 
 ### Can I record with the screen off?
-Yes. Recording continues in the background when you lock your screen or switch apps. Your Live Activity on the Lock Screen will show recording status.
+Yes. Audio recording continues in the background when you lock your screen or switch apps. Your Live Activity on the Lock Screen will show recording status.
 
 ### How do I change the visualizer style while recording?
 Long press the visualizer on the recording screen.
@@ -45,15 +45,15 @@ Long press the timer. To hide the timer entirely, double tap it.
 
 ### What can I edit?
 The Magic Editor is a canvas where you control:
-- Animated visualizer style (17 options)
+- Animated visualizer style
 - Title, subtitle, and caption text
-- Background: solid color, your photo, or AI-generated
+- Background: solid color, your photo/video, or AI-generated image
 - Aspect ratio: 9:16 (Stories/TikTok), 1:1 (Square), 16:9 (Landscape)
 - Fonts, weights, and text alignment
 - Trim points via the zoomable timeline
 
 ### How do I move and resize elements?
-Drag to move. Pinch to resize. Pinch the visualizer outward to snap it to full canvas width. Double tap any element to reset it to its default position and size.
+Drag to move. Pinch to resize. Twist media elements to rotate them. Pinch the visualizer outward to snap it to full canvas width. Double tap any element to reset it to its default position and size.
 
 ### Will my layout reset when I switch aspect ratios?
 No. Lappaa saves your layout independently for each aspect ratio. Switch to 1:1, adjust, switch back to 9:16 — each configuration is remembered.
@@ -75,7 +75,7 @@ Yes. Tap any segment to edit text, adjust timing, or delete it. Search & Replace
 Yes. Import `.srt` or `.vtt` files to replace the auto-generated transcript.
 
 ### Can I export my transcript?
-Yes — as `.srt` or plain text from the editor menu.
+Yes — as `.srt` or plain text from the editor menu. You can also export the raw audio file if you want to do the captions elsewhere (and import back).
 
 ---
 
@@ -85,10 +85,10 @@ Yes — as `.srt` or plain text from the editor menu.
 Lappaa reads the mood and content of your transcript using a local AI model and generates a matching background image — entirely on your device. No prompt, no cloud, no account.
 
 ### Which devices support AI Backgrounds?
-iPhone 15 Pro, iPhone 15 Pro Max, and any newer iPhone or iPad with equivalent or greater neural hardware. Requires iOS 26.0 or later.
+iPhone 15 Pro and any newer iPhone or iPad (M-series) with equivalent or greater neural hardware. Requires iOS 26.0 or later.
 
 ### Why isn't AI Backgrounds available on my device?
-AI Backgrounds uses Apple's framework, which requires specific neural hardware. This is an Apple hardware requirement, not a Lappaa limitation.
+AI Backgrounds uses Apple's Intelligence framework, which requires specific neural hardware. This is an Apple hardware requirement, not a Lappaa limitation.
 
 ---
 
@@ -117,7 +117,7 @@ No. Lappaa applies a safety limiter at -2 dBTP to prevent clipping before and af
 ## Lappaa Pro
 
 ### What does Pro include?
-- **Import audio** — from the iOS Files app, from video files in your Photo Library, or from your Clipboard
+- **Import audio/video** — from the iOS Files app, from video files in your Photo Library, or from your Clipboard
 - **No watermark** on exports
 - **Audio Mastering** with adjustable LUFS target (-23 to -14)
 - **Word-by-word caption generation** (on supported devices)
@@ -133,15 +133,15 @@ iPhone Settings → Apple ID → Subscriptions → Lappaa.
 
 ---
 
-## Importing Audio *(Pro)*
+## Importing Media *(Pro)*
 
 ### What can I import?
-- **Files app** — common audio formats (MP3, AAC, WAV, FLAC, M4A, and more)
-- **Photos** — any video in your library; Lappaa extracts the audio track
-- **Clipboard** — copied audio files or URLs
+- **Files app** — common media formats (MP3, AAC, WAV, FLAC, M4A, and more)
+- **Photos** — any video in your library
+- **Clipboard** — copied media files or URLs
 
-### How do I import audio from a video I filmed?
-Long press the Import button in the Recorder view → choose Photos → select your video. Lappaa will extract the audio automatically.
+### How do I import a video I filmed?
+Long press the Import button in the Recorder view → choose Photos → select your video. Lappaa will import it automatically.
 
 ### Does Lappaa compress my imported audio?
 All imported audio is converted to 44.1kHz AAC for internal processing. This happens in the background. For export, Audio Mastering *(Pro)* then normalizes the loudness to your chosen target.
@@ -151,7 +151,7 @@ All imported audio is converted to 44.1kHz AAC for internal processing. This hap
 ## Exporting & Sharing
 
 ### Where can I share my videos?
-Anywhere that accepts video. Lappaa uses the native iOS Share Sheet — you can send directly to Instagram, TikTok, WhatsApp, Signal, Telegram, iMessage, save to Files, or save to Photos.
+Anywhere that accepts video. Lappaa uses the native iOS Share Sheet — you can send directly to Instagram, TikTok, Youtube, WhatsApp, Signal, Telegram, iMessage, save to Files, or save to Photos.
 
 ### How do I auto-save every export to my Photo Library?
 Settings → Auto-Save to Photos → On.
@@ -193,6 +193,9 @@ Long press your Home Screen → tap **+** → search "Lappaa" → add your prefe
 
 ### Microphone isn't recording
 iPhone Settings → Privacy & Security → Microphone → enable Lappaa.
+
+### Camera isn't recording
+iPhone Settings → Privacy & Security → Camera → enable Lappaa.
 
 ### AI Backgrounds  isn't available
 Confirm you have iPhone 15 Pro or newer and are running iOS 26.0 or later.
