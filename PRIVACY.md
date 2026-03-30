@@ -1,12 +1,12 @@
 # Privacy Policy — Lappaa
 
-**Last updated: February 2026**
+**Last updated: March 2026**
 
 ---
 
 ## The Short Version
 
-Lappaa does not collect, upload, or share your data. Your voice recordings, transcriptions, and exported videos never leave your device. There is no Lappaa account, no backend server, and no cloud processing of any kind.
+Lappaa does not collect, upload, or share your data. Your voice and video recordings, transcriptions, and exported videos never leave your device. There is no Lappaa account, no backend server, and no cloud processing of any kind.
 
 ---
 
@@ -22,8 +22,8 @@ Lappaa is fully functional in Airplane Mode.
 
 ## Permissions
 
-### Microphone
-Used to record audio when you start a recording session. Audio is stored locally on your device and is never transmitted. You control when recording starts and stops.
+### Microphone and Camera
+Used to record audio/video when you start a recording session. The media is stored locally on your device and is never transmitted. You control when recording starts and stops.
 
 ### Speech Recognition
 Used to generate captions and transcripts on-device via Apple's framework.
@@ -34,7 +34,7 @@ Note: Apple's frameworks may have their own data handling at the OS level. See [
 Used to save your exported videos to the Photos app. "Add Only" access means Lappaa cannot read or browse your existing photos.
 
 ### Photo Library — Read *(Pro import feature)*
-Required when you choose to import a video from your Photo Library to extract its audio. Only accessed when you explicitly trigger this action.
+Required when you choose to import a video from your Photo Library. Only accessed when you explicitly trigger this action.
 
 ### Notifications
 Optional. Used for Live Activities — real-time recording status on your Lock Screen and Dynamic Island. No content is delivered from a remote server.
@@ -58,7 +58,7 @@ Lappaa Pro subscriptions and the Lifetime purchase are handled entirely by Apple
 ## Data Stored on Your Device
 
 Lappaa stores locally:
-- Audio recordings and imported audio files
+- Audio and video recordings and imported media files
 - Draft projects (trim points, text, layout, visualizer settings)
 - Exported video files (before sharing)
 - App settings and preferences
