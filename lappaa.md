@@ -1,15 +1,15 @@
 # Lappaa — Voice to Video
 
-**Last Updated:** 2026-03-17
+**Last Updated:** 2026-03-30
 **Platform:** iOS 26.0+ / iPadOS 26.0+
 
 ---
 
 ## Product Overview
 
-Lappaa is an iOS and iPadOS app for turning voice recordings and audio into shareable social videos. It's built for musicians, artists, DJs, podcasters, business professionals, and anyone who wants their audio to be seen on messaging apps and social media — rather than waiting for someone to press play.
+Lappaa is an iOS and iPadOS app for turning voice recordings, video, and audio into shareable social videos. It's built for musicians, artists, DJs, podcasters, business professionals, and anyone who wants their audio and video to be seen on messaging apps and social media.
 
-The core idea is simple: raw audio is invisible on visual platforms and often ignored in messaging apps. Lappaa "unboxes" it — instantly wrapping your voice or music in your custom animated visualizers, auto-generated captions, and custom backgrounds, then exporting a video ready for Instagram, TikTok, WhatsApp, or iMessage.
+The core idea is simple: raw audio is invisible on visual platforms and often ignored in messaging apps. Lappaa "unboxes" it — instantly wrapping your voice, video or music in your custom animated visualizers, auto-generated captions, and custom backgrounds, then exporting a video ready for Instagram, TikTok, WhatsApp, Youtube, or iMessage.
 
 **Tagline:** "Give Your Voice a Visual"
 
@@ -17,9 +17,9 @@ The core idea is simple: raw audio is invisible on visual platforms and often ig
 
 ### Core Capabilities
 
-- **Record:** High-quality audio capture with live visualizers and optional Voice Isolation.
-- **Import *(Pro)*:** Bring in audio from Files, Photos (video extraction), or Clipboard.
-- **Edit:** Canvas-based video editor with 17 visualizer styles, custom text, and background options.
+- **Record:** High-quality audio and video capture with live visualizers and optional Voice Isolation.
+- **Import *(Pro)*:** Bring in audio and video from Files, Photos (video extraction), or Clipboard.
+- **Edit:** Canvas-based video editor with visualizer styles, custom text, and background options.
 - **Transcribe:** On-device speech-to-text — automatic captions, no internet needed.
 - **Master *(Pro)*:** Audio Mastering with configurable LUFS target (-23 to -14).
 - **Export:** Share via iOS Share Sheet to Instagram, TikTok, Youtube, X, Threads, Telegram, iMessage, and more.
@@ -28,20 +28,20 @@ The core idea is simple: raw audio is invisible on visual platforms and often ig
 
 | Scenario | Solution |
 |----------|----------|
-| Elevate an Instagram DM | Record and send an "unboxed" voice note: turn a raw audio bubble into a personalized, visual micro-video |
+| Elevate an Instagram DM | Record and send an "unboxed" voice or video note: turn a raw audio bubble into a personalized, visual micro-video |
 | TikTok hot take or rant | Record a thought, apply fast-paced word-by-word captions, post 9:16 instantly |
 | Aesthetic Brain Dumps | Voice journal over a mood photo or AI background to make an aesthetic mini-vlog |
 | Share a beat or song idea | Import a raw voice memo of a strumming idea, add visualizer, post to feed |
-| Publish a full track to YouTube | Import audio, add stylish cover art and a 16:9 visualizer template, upload |
-| Post a TikTok of a DJ mix without filming | Import audio, set background, normalize to -14 LUFS, share |
+| Publish a full track to YouTube | Import media, add stylish cover art and a 16:9 visualizer template, upload |
+| Post a TikTok of a DJ mix without filming | Import media, set background, normalize to -14 LUFS, share |
 | Experts sharing quick insights | Record voice note, auto-caption, export a branded 1:1 video for your audience (e.g. LinkedIn)|
 
 ### Pricing
 
-**Free:** Core recording, all 9 live visualizers, all 17 editor visualizers, canvas editor, on-device transcription, AI Backgrounds (on supported devices), all aspect ratios, export with watermark.
+**Free:** Core recording, all 9 live visualizers, all editor visualizers, canvas editor, on-device transcription, AI Backgrounds (on supported devices), all aspect ratios, export with watermark.
 
 **Lappaa Pro:**
-- Import audio (Files, Photos, Clipboard)
+- Import media (Files, Photos, Clipboard)
 - Watermark-free exports
 - Audio Mastering (configurable -23 to -14 LUFS)
 - Word-by-Word captions
@@ -54,7 +54,7 @@ Available as Weekly, Monthly, Yearly (auto-renewable), or Lifetime (non-consumab
 
 ### Live Visualizer Styles (Recorder)
 
-9 styles available in real time during recording:
+9 styles available in real time during audio recording:
 
 | Style | Character |
 |-------|-----------|
@@ -80,9 +80,9 @@ Flip Clock · Nixie Tube · Digital LED · Standard · Minimal · Neon · Analog
 
 ### Input Modes
 
-**Standard** — Full-fidelity microphone capture at 44.1kHz / 32-bit float internal processing. No processing applied to the input signal.
+**Standard** — Full-fidelity microphone (and camera) capture at 32-bit float internal processing. No processing applied to the input signal.
 
-**Voice Isolation** — Enables Apple's system-level real-time noise filtering and echo cancellation at the OS level before audio enters the recording pipeline. Designed for noisy or untreated environments. Note: Voice Isolation processes the microphone input only; it is not applied to imported audio files.
+**Voice Isolation** — Enables Apple's system-level real-time noise filtering and echo cancellation at the OS level before audio enters the recording pipeline. Designed for noisy or untreated environments. Note: Voice Isolation processes the microphone input only; it is not applied to imported media files.
 
 ### System Integration
 
@@ -100,17 +100,17 @@ Flip Clock · Nixie Tube · Digital LED · Standard · Minimal · Neon · Analog
 
 ---
 
-## Import *(Lappaa Pro)*
+## Import Media *(Lappaa Pro)*
 
 Three import sources, accessed via long press on the Import button in the Recorder view:
 
-**Files** — Opens the iOS Files app. Supports common audio formats. Audio is transcoded to 44.1kHz AAC in a background process after import.
+**Files** — Opens the iOS Files app. Supports common media formats. Audio is transcoded to 44.1kHz AAC in a background process after import.
 
-**Photos** — Selects a video from the Photo Library and extracts its audio track. Requires Photo Library read access. The video track is discarded; only audio is imported.
+**Photos** — Selects a video from the Photo Library. Requires Photo Library read access.
 
-**Clipboard** — Imports a copied audio file or URL from the system clipboard.
+**Clipboard** — Imports a copied media file or URL from the system clipboard.
 
-All imported audio is automatically converted to 44.1kHz AAC via a background actor. The import process does not block the main thread.
+All imported audio is automatically converted and mastered.
 
 ---
 
@@ -120,9 +120,9 @@ The editor is a canvas-based video builder. All elements are moveable and resiza
 
 ### Visualizer Styles (Editor)
 
-17 animated styles reacting to the audio waveform:
+Animated styles reacting to the audio waveform:
 
-Bars · Wave · Spectrum · Line · Dots · Ripple · Mountain Layers · Retro Stack · Neon · Pulse Circle · Orbit · Helix · Radial Bars · Radial Spikes · CRT Trace · Vector Round · Vector Square
+Bars · Wave · Spectrum · Line · Dots · Ripple · Mountain Layers · Retro Stack · Neon · Pulse Circle · Orbit · Helix · Radial Bars · Radial Spikes · CRT Trace · Vector Round · Vector Square · Iconic Tortoise · Iconic Fish · Cat · Frog · Boy · Cane man · Orange cat · Chill · Dino · Dog · Fox · Girl · Red hat · Stickman · Dancing Mouse
 
 ### Canvas & Aspect Ratios
 
@@ -140,15 +140,16 @@ Bars · Wave · Spectrum · Line · Dots · Ripple · Mountain Layers · Retro S
 - **Subheader** — Secondary text
 - **Caption** — Transcription / caption block
 - **Visualizer** — Animated audio-reactive graphic
+- **Imported Media** — Photos and video
 
-All elements support drag (move), pinch (resize), and snap-to-full-width (pinch visualizer outward). Double tap any element to reset to default position/size.
+All elements support drag (move), pinch (resize), and snap-to-full-width (pinch visualizer outward). Media elements can be twisted (rotate). Double tap any element to reset to default position/size.
 
 **Vertical drag lock:** When an element is at full width, drag is locked to the Y-axis only.
 
 ### Background Options
 
 - **Solid color** — Any hex value
-- **User photo** — Import from Photos library or paste from Clipboard (long press background icon). Includes a Gaussian blur slider.
+- **User photo/video** — Import from Photos library or paste from Clipboard (long press background icon on Editor for photos). Includes a Gaussian blur slider.
 - **AI Backgrounds** — Generated on-device via ImagePlayground *(iPhone 15 Pro+)*
 
 ### Typography
@@ -175,11 +176,11 @@ Controls: Weight, alignment (left / center / right)
 
 ## Transcription
 
-On-device speech recognition using Apple's native framework.
+On-device speech recognition using Apple's native framework. A split feature for long caption sentences.
 
 ### Automatic Captioning
 
-Transcription starts automatically when a recording is opened in the editor. Segments are aligned to the audio timeline and displayed as caption overlays.
+Transcription starts automatically when a recording is opened in the editor. Segments are aligned to the audio timeline and displayed as caption overlays. Both word-by-word or sentence captions are supported.
 
 **Orphan Fixer:** Leading punctuation (periods, commas) is automatically moved from the start of a segment to the end of the previous segment.
 
@@ -258,6 +259,7 @@ Lappaa manages local storage automatically.
 | Editor canvas | Vertical drag (full-width element) | Locked to Y-axis |
 | Editor canvas | Long press background icon | Pastes image from system clipboard |
 | Editor canvas | Long press title / subtitle | Opens quick-edit text alert |
+| Editor canvas | Twist element | Rotates the element |
 | Timeline | Single tap ruler | Quick seek to timestamp |
 | Timeline | Double tap duration | Snaps selection to max duration from current start |
 | Timeline | Double tap start/end handle | Jumps playhead to clip boundary |
@@ -277,10 +279,10 @@ See [PRIVACY.md](PRIVACY.md) for the full policy.
 ## System Requirements
 
 - iOS 26.0+ / iPadOS 26.0+
-- Microphone permission — required for recording
+- Microphone/camera permission — required for recording
 - Speech Recognition permission — required for transcription
 - Photo Library ("Add Only") — required to save exported videos
-- Photo Library (Read) — required for video (audio) import *(Pro)*
+- Photo Library (Read) — required for media import *(Pro)*
 - Notifications — optional, used for Live Activities
 
 Apple Intelligence features: iPhone 15 Pro / iPhone 15 Pro Max or newer, iOS 26+.
