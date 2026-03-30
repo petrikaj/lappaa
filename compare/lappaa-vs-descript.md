@@ -1,6 +1,6 @@
 # Lappaa vs. Descript — Detailed Comparison
 
-> Descript is a desktop powerhouse for editing audio and video like a text document. Lappaa is a mobile-native creator for turning audio into social videos, instantly.
+> Descript is a desktop powerhouse for editing audio and video like a text document. Lappaa is a mobile-native creator for turning voice and media into social videos, instantly.
 
 ## Overview
 
@@ -9,7 +9,7 @@
 | **Price** | Freemium | SaaS Subscription |
 | **Platform** | iOS, iPadOS | macOS, Windows, Web |
 | **Developer** | Petri Kajander (Sunbird OÜ), European indie | Descript (USA) |
-| **Focus** | Mobile fast audio-to-video workflow | Desktop transcript-based timeline editing |
+| **Focus** | Mobile fast audio-and-video workflow | Desktop transcript-based timeline editing |
 
 ---
 
@@ -17,7 +17,7 @@
 
 **Descript** is a robust desktop editor built around text. You edit your footage by editing the auto-generated transcript like a Word document; cut a sentence, and the video cuts. It requires dedicated focus on a Mac or PC.
 
-**Lappaa** is built for extreme speed on mobile. The goal is to take a raw audio file or voice note, instantly apply a custom user-saved visualizer template and captions, and export it directly to your audience—all from your phone.
+**Lappaa** is built for extreme speed on mobile. The goal is to take a raw voice note, video, or imported media file, instantly apply a custom user-saved visualizer template and captions, and export it directly to your audience—all from your phone.
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Feature | Lappaa | Descript |
 |---------|:------:|:--------:|
-| **Mobile Editing** | ✅ Native audio-to-video visual builder | ❌ mobile upload only |
+| **Mobile Editing** | ✅ Native audio-and-video visual builder | ❌ mobile upload only |
 | **Offline Editing** | ✅ 100% functional offline | ❌ Requires internet for AI tools/sync |
 | **Transcription** | ✅ On-device generation | ❌ Cloud processing |
 | **Fast Visual Templates** | ✅ Custom user-saved | ⚠️ Manually built scenes |
@@ -38,7 +38,7 @@
 
 ## Workflow: Unboxing vs. Post-Production
 
-For casual use, Lappaa excels at **"unboxing" raw audio for chat**. If you want to send a voice note on WhatsApp or iMessage but want the recipient to be able to read captions before deciding to listen, Lappaa turns that raw audio into a captioned micro-video instantly. Descript's comprehensive desktop workflow is not designed for this type of casual, instant mobile messaging.
+For casual use, Lappaa excels at **"unboxing" raw media for chat**. If you want to send a voice/video note on WhatsApp or iMessage but want the recipient to be able to read captions before deciding to listen, Lappaa turns that raw media into a captioned micro-video instantly. Descript's comprehensive desktop workflow is not designed for this type of casual, instant mobile messaging.
 
 For DJs, Artists, **Small Business Professionals**, and **Voiceover Artists**, Lappaa is a single mobile tool: import the master audio or record a thought leadership snippet, add a visualizer, apply exact social-media LUFS normalization, and post directly to your audience.
 
@@ -61,10 +61,10 @@ Lappaa does not use processing quotas. Transcription and rendering happen on you
 
 ### Choose **Lappaa** if you
 
-- Need to turn audio into a social-ready video *fast*, directly from your phone.
-- Want to "unbox" raw voice notes into visual, captioned videos to send in private chat apps.
+- Need to turn voice or media into a social-ready video *fast*, directly from your phone.
+- Want to "unbox" raw voice/video notes into visual, captioned videos to send in private chat apps.
 - Are a musician or DJ sharing tracks and want easy visualizers with optimized social volume (LUFS).
-- Value complete offline capability and zero audio uploads.
+- Value complete offline capability and zero cloud uploads.
 
 ### Choose **Descript** if you
 
