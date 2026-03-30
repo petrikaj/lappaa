@@ -1,10 +1,10 @@
-# Awesome Audio-to-Video Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Audio-and-Video Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools for turning voice, video, and audio into social-ready video — for musicians, artists, DJs, podcasters, and anyone who wants their audio to be seen.
+> A curated list of tools for turning voice, video, and audio into social-ready video — for musicians, artists, DJs, podcasters, and anyone who wants their media to be seen.
 
 Whether you need to share a beat preview on Instagram, generate audiogram clips from a podcast, or send a voice note that people want to watch — there's a tool for you.
 
-*(New to "Chat Unboxing"? It’s the magic of turning an invisible voice note into a vibrant, bite-sized video. Beyond just auto-captions, your audio gets a visual makeover with stylish backgrounds and rhythmic audiograms—allowing friends to "watch" your message silently in the chat. It’s a total eye-candy upgrade for WhatsApp, iMessage, Telegram, LINE, or WeChat.)*
+*(New to "Chat Unboxing"? It’s the magic of turning an invisible voice/video notes into a vibrant, bite-sized video. Beyond just auto-captions, your audio gets a visual makeover with stylish backgrounds and rhythmic audiograms—allowing friends to "watch" your message silently in the chat. It’s a total eye-candy upgrade for WhatsApp, iMessage, Telegram, LINE, or WeChat.)*
 
 ---
 
@@ -100,7 +100,7 @@ A side-by-side look at the tools most relevant to mobile audio-to-social workflo
 | Feature | Lappaa | CapCut | Wavve | Headliner | OpusClip | Descript |
 |---------|:------:|:------:|:-----:|:---------:|:--------:|:--------:|
 | **Mobile-Native (iOS)** | ✅ | ✅ | ❌ Web | ❌ Web | ❌ Web | ❌ Desktop |
-| **Record Audio** | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
+| **Record Audio/video** | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
 | **Live Visualizer (at record time)** | ✅ 9 styles | ❌ | ❌ | ❌ | ❌ | ❌ |
 | **Animated Visualizer Templates** | ✅ multiple styles | ⚠️ Basic | ⚠️ 1 style | ✅ | ❌ | ✅ |
 | **On-Device Transcription** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -137,7 +137,7 @@ LUFS (Loudness Units Full Scale) is the standard for measuring perceived audio l
 
 ## Why This List Exists
 
-Getting voice or audio onto social media as compelling video content shouldn't require a desktop NLE, a cloud subscription, and three separate apps. This list maps the landscape so you can find the right tool for how you create.
+Getting voice, video or audio onto social media as compelling video content shouldn't require a desktop NLE, a cloud subscription, and three separate apps. This list maps the landscape so you can find the right tool for how you create.
 
 **Key things to consider:**
 
