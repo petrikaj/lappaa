@@ -20,7 +20,17 @@ The fundamental difference between the two tools is how they handle the final vi
 
 **Loom** acts as a hosting platform. When you finish recording, the video is uploaded to Loom's cloud servers. You share a link, and the recipient watches the video on Loom's website, where they can leave timestamped comments and reactions.
 
-**Lappaa** acts as an originator tool. When you finish recording, it exports a standard video file directly to your device. You can then share this file natively on messaging apps (WhatsApp, Signal, iMessage) or social platforms (LinkedIn, Instagram, TikTok). The recipient watches the video directly in their feed or chat, without clicking an external link.
+**Lappaa** acts as an originator tool. When you finish recording, it exports a standard video file (`.mp4`) directly to your device. You can then share this file natively on messaging apps (WhatsApp, Signal, iMessage) or social platforms (LinkedIn, Instagram, TikTok). The recipient watches the video directly in their feed or chat, without clicking an external link.
+
+---
+
+## The "One-Take" Philosophy
+
+Both tools share a core philosophy: **recording should be fast, and editing should be minimal.**
+
+**Loom** encourages a raw, authentic feel for workplace communication — you record, maybe trim the ends, and share. 
+
+**Lappaa** brings this exact philosophy to social media and professional networking. Instead of opening a multi-clip editor like CapCut or Edits, you set your visual look once as a saved template in Lappaa. Then, every time you want to post: record, trim, and export. It brings the speed of an async workplace tool to the aesthetic requirements of social platforms.
 
 ---
 
@@ -28,7 +38,7 @@ The fundamental difference between the two tools is how they handle the final vi
 
 **Loom** is optimized for screen sharing and async workplace collaboration. If you need to demonstrate software, record a bug report, or walk through a presentation with your camera in a picture-in-picture bubble, Loom is built specifically for that workflow.
 
-**Lappaa** is optimized for audio-first and "talking head" communication. If you are recording a voice note or a quick professional update, Lappaa automatically applies audio-reactive visualizers, AI-generated backgrounds, and fast-paced captions. 
+**Lappaa** is optimized for audio-first and "talking head" communication. If you are recording a voice note or a quick professional update, Lappaa automatically applies music-reactive visualizers, AI-generated backgrounds, and fast-paced captions. 
 
 ---
 
