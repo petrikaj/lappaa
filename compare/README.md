@@ -7,6 +7,7 @@
 | Comparison | Summary |
 |-----------|---------|
 | [Lappaa vs. CapCut](lappaa-vs-capcut.md) | Mobile-native privacy vs. ByteDance video editor |
+| [Lappaa vs. Instagram Edits](lappaa-vs-edits.md) | One-take audio/video vs. Meta short-form editor |
 | [Lappaa vs. Loom](lappaa-vs-loom.md) | On-device social creator vs. cloud-hosted screen recorder |
 | [Lappaa vs. Wavve](lappaa-vs-wavve.md) | On-device creation vs. browser-based audiogram tool |
 | [Lappaa vs. Headliner](lappaa-vs-headliner.md) | Instant mobile creation vs. cloud-based promotion suite |
