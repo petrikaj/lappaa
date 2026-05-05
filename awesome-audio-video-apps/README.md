@@ -47,7 +47,7 @@ Whether you need to share a beat preview on Instagram, generate audiogram clips 
 |-----|-------------|-------|------|
 | **[Lappaa](https://lappaa.com)** | Record or import audio/video → custom user-saved visualizers, on-device captions, AI backgrounds, configurable social audio normalization (-23 to -14), export to social | Freemium | [App Store](https://apps.apple.com/app/id6756935311) |
 | **[CapCut](https://www.capcut.com)** | Full short-form video editor, voice isolator (post-processing), captions, rich effects library, TikTok integration | Freemium | [App Store](https://apps.apple.com/app/capcut-video-editor/id1500855883) |
-| **[Instagram Edits](https://about.instagram.com/)** | Standalone short-form video editor by Meta. Multi-clip timelines, auto-captions, audio enhancement, direct IG integration. | Free | [App Store](https://apps.apple.com) |
+| **[Instagram Edits](https://creators.instagram.com/edits)** | Standalone short-form video editor by Meta. Multi-clip timelines, auto-captions, audio enhancement, direct IG integration. | Free | [App Store](https://apps.apple.com/app/id6738967378) |
 | **[Mematic](https://www.mematic.net)** | Quick text-on-video meme creation, simple social sharing | Freemium | [App Store](https://apps.apple.com/app/mematic-the-meme-maker/id491076730) |
 
 ### What Makes Each iOS App Different?
