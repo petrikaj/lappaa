@@ -4,7 +4,7 @@
 
 Whether you need to share a beat preview on Instagram, generate audiogram clips from a podcast, or send a voice note that people want to watch — there's a tool for you.
 
-*(New to "Chat Unboxing"? It’s the magic of turning an invisible voice/video notes into a vibrant, bite-sized video. Beyond just auto-captions, your audio gets a visual makeover with stylish backgrounds and rhythmic audiograms—allowing friends to "watch" your message silently in the chat. It’s a total eye-candy upgrade for WhatsApp, iMessage, Telegram, LINE, or WeChat.)*
+*(New to "Chat Unboxing"? It’s the magic of turning invisible voice or video notes into vibrant, bite-sized videos. Beyond just auto-captions, your audio gets a visual makeover with stylish backgrounds and rhythmic audiograms—allowing friends to "watch" your message silently in the chat. It’s a total eye-candy upgrade for WhatsApp, iMessage, Telegram, LINE, or WeChat.)*
 
 ---
 
@@ -12,6 +12,7 @@ Whether you need to share a beat preview on Instagram, generate audiogram clips 
 
 - [Awesome Audio-to-Video Apps ](#awesome-audio-to-video-apps-)
   - [Contents](#contents)
+  - [Comparisons](#comparisons)
   - [iOS \& iPadOS](#ios--ipados)
     - [What Makes Each iOS App Different?](#what-makes-each-ios-app-different)
   - [Web-Based Tools](#web-based-tools)
@@ -25,18 +26,35 @@ Whether you need to share a beat preview on Instagram, generate audiogram clips 
 
 ---
 
+## Comparisons
+
+| Comparison | Summary |
+|-----------|---------|
+| [Lappaa vs. CapCut](lappaa-vs-capcut.md) | Mobile-native privacy vs. ByteDance video editor |
+| [Lappaa vs. Instagram Edits](lappaa-vs-edits.md) | One-take audio/video vs. Meta short-form editor |
+| [Lappaa vs. Loom](lappaa-vs-loom.md) | On-device social creator vs. cloud-hosted screen recorder |
+| [Lappaa vs. Wavve](lappaa-vs-wavve.md) | On-device creation vs. browser-based audiogram tool |
+| [Lappaa vs. Headliner](lappaa-vs-headliner.md) | Instant mobile creation vs. cloud-based promotion suite |
+| [Lappaa vs. OpusClip](lappaa-vs-opusclip.md) | Mobile content originator vs. AI video repurposing tool |
+| [Lappaa vs. Descript](lappaa-vs-descript.md) | Mobile visual creator vs. desktop transcript editor |
+| [Lappaa vs. Rotor Videos](lappaa-vs-rotorvideos.md) | Instant mobile visualizer vs. AI music video generation |
+
+---
+
 ## iOS & iPadOS
 
 | App | Key Strength | Price | Link |
 |-----|-------------|-------|------|
 | **[Lappaa](https://lappaa.com)** | Record or import audio/video → custom user-saved visualizers, on-device captions, AI backgrounds, configurable social audio normalization (-23 to -14), export to social | Freemium | [App Store](https://apps.apple.com/app/id6756935311) |
 | **[CapCut](https://www.capcut.com)** | Full short-form video editor, voice isolator (post-processing), captions, rich effects library, TikTok integration | Freemium | [App Store](https://apps.apple.com/app/capcut-video-editor/id1500855883) |
+| **[Instagram Edits](https://about.instagram.com/)** | Standalone short-form video editor by Meta. Multi-clip timelines, auto-captions, audio enhancement, direct IG integration. | Free | [App Store](https://apps.apple.com) |
 | **[Mematic](https://www.mematic.net)** | Quick text-on-video meme creation, simple social sharing | Freemium | [App Store](https://apps.apple.com/app/mematic-the-meme-maker/id491076730) |
 
 ### What Makes Each iOS App Different?
 
 - **Lappaa** — The mobile originator. Starts from voice, video, or music. The only iOS app combining live audio visualizers, on-device transcription, AI backgrounds (no cloud), custom user-saved templates, and user-configurable social audio normalization. European, privacy-first, no account required.
 - **CapCut** — The video-first option. Bring video footage or existing recordings and cut, caption, and style them. Huge effects library, deep TikTok integration. Voice isolation works on pre-recorded files (post-processing). Developed by ByteDance.
+- **Instagram Edits** — The Meta-ecosystem option. A standalone app dedicated to crafting multi-clip short-form videos with native Instagram stickers, audio enhancement, and trending music sync.
 - **Mematic** — Not for audio, but useful for quick visual commentary alongside audio content.
 
 ---
@@ -97,23 +115,23 @@ Tools focused on audio quality and loudness normalization — useful as part of 
 
 A side-by-side look at the tools most relevant to mobile audio-to-social workflows:
 
-| Feature | Lappaa | CapCut | Wavve | Headliner | OpusClip | Descript |
-|---------|:------:|:------:|:-----:|:---------:|:--------:|:--------:|
-| **Mobile-Native (iOS)** | ✅ | ✅ | ❌ Web | ❌ Web | ❌ Web | ❌ Desktop |
-| **Record Audio/video** | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| **Live Visualizer (at record time)** | ✅ 9 styles | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Animated Visualizer Templates** | ✅ multiple styles | ⚠️ Basic | ⚠️ 1 style | ✅ | ❌ | ✅ |
-| **On-Device Transcription** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **AI Background (on-device)** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Social Audio Normalization** | ✅ -23 to -14 | ⚠️ Auto-Leveling | ❌ | ❌ | ❌ | ✅ |
-| **Voice Isolation (at mic, live)** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Voice Enhancement (post)** | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ Studio Sound |
-| **AI Clip Extraction** | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
-| **9:16, 1:1, 16:9 Export** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Works Offline** | ✅ Fully | ⚠️ Partial | ❌ | ❌ | ❌ | ❌ |
-| **No Account Required** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Privacy (No Cloud Upload)** | ✅ Zero | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Developer Data Concern** | —  | ByteDance | — | — | — | — |
+| Feature | Lappaa | CapCut | IG Edits | Wavve | Headliner | OpusClip | Descript |
+|---------|:------:|:------:|:--------:|:-----:|:---------:|:--------:|:--------:|
+| **Mobile-Native (iOS)** | ✅ | ✅ | ✅ | ❌ Web | ❌ Web | ❌ Web | ❌ Desktop |
+| **Record Audio/Video** | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
+| **Live Visualizer (at record time)** | ✅ 9 styles | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Animated Visualizer Templates** | ✅ multiple styles | ⚠️ Basic | ❌ | ⚠️ 1 style | ✅ | ❌ | ✅ |
+| **On-Device Transcription** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **AI Background (on-device)** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Social Audio Normalization** | ✅ -23 to -14 | ⚠️ Auto-Leveling | ⚠️ Auto-Enhance | ❌ | ❌ | ❌ | ✅ |
+| **Voice Isolation (at mic, live)** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Voice Enhancement (post)** | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ Studio Sound |
+| **AI Clip Extraction** | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| **9:16, 1:1, 16:9 Export** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| **Works Offline** | ✅ Fully | ⚠️ Partial | ⚠️ Partial | ❌ | ❌ | ❌ | ❌ |
+| **No Account Required** | ✅ | ⚠️ Optional | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Privacy (No Cloud Upload)** | ✅ Zero | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **Developer Data Concern** | —  | ByteDance | Meta | — | — | — | — |
 
 ---
 
@@ -124,7 +142,7 @@ LUFS (Loudness Units Full Scale) is the standard for measuring perceived audio l
 | Platform | Target LUFS | True Peak | Notes |
 |----------|------------|-----------|-------|
 | **Instagram Reels** | -14 LUFS | -2 dBTP | Favors compressed, punchy audio. Unoptimized tracks get ducked. |
-| **TikTok** | -10 to -12 LUFS | -2 dBTP | Aggressive algorithmic limiting. Favors loud audio for noisy environments. |
+| **TikTok** | -13 to -14 LUFS | -2 dBTP | Aggressive algorithmic limiting. Favors loud audio for noisy environments. |
 | **YouTube Shorts** | -14 LUFS | -1 dBTP | Attenuates above -14 LUFS. |
 | **Spotify / Apple Music** | -14 LUFS | -1 dBTP | Normalization applied on playback. |
 | **Facebook / LinkedIn** | -13 to -16 LUFS | -2 dBTP | Moderate compression. |
@@ -162,5 +180,5 @@ Contributions welcome. If you know of an audio-to-video tool that belongs on thi
 ---
 
 <p align="center">
-  <sub>Curated with ❤️ by the <a href="https://lappaa.com">Lappaa</a> team</sub>
+  <sub>Curated with ❤️ by the <a href="https://lappaa.com">Lappaa</a> team</sub>
 </p>
