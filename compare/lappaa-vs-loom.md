@@ -69,3 +69,9 @@ Lappaa is designed for individual creators and professionals who prefer local pr
 - Need viewer analytics (knowing who watched your video and for how long).
 - Are communicating internally with a team that uses timestamped comments and reactions.
 - Prefer sharing URLs instead of uploading video files.
+
+---
+
+<p align="center">
+  <a href="https://apps.apple.com/app/id6756935311">Try Lappaa Free</a> · <a href="https://lappaa.com">Learn More</a>
+</p>
