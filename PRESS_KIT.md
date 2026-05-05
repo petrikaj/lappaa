@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **App Name** | Lappaa — Voice to Video |
+| **App Name** | Lappaa: Audio & Video Editor |
 | **Tagline** | Give Your Voice a Visual |
 | **Developer** | Petri Kajander (Sunbird OÜ) |
 | **Price** | Free with Lappaa Pro (see App Store for current pricing) |
@@ -19,46 +19,43 @@
 ## App Descriptions
 
 ### One-Liner
-Lappaa turns voice recordings, video and audio into shareable social content — animated visualizers, auto-captions, AI backgrounds — entirely on your phone.
+Lappaa is a one-take audio and video tool. Record or import, apply a saved template, and export a captioned video in under a minute.
 
 ### Short (50 words)
-Lappaa is a native iOS app that transforms raw audio and video into eye-catching social videos. Record a voice note or import a track, apply a custom visualizer template and automatic captions, and export a video ready for Instagram, TikTok, Youtube, or WhatsApp — entirely on-device, with zero cloud uploads or desktop editing.
+Lappaa is a one-take audio and video tool for iPhone and iPad. It wraps your voice or video in auto-captions, animated visualisers, and custom backgrounds. Record or import, apply a saved template, trim the ends, and export a platform-ready video for social media or private chats in under a minute.
 
 ### Medium (100 words)
-Raw media is invisible on social media and often ignored in messaging apps. Lappaa fixes that by unboxing it.
+Lappaa transforms spoken ideas into instant, shareable videos without the production overhead. It is built for anyone who wants to communicate visually without becoming a video editor. 
 
-Record a voice note or import a music clip, and Lappaa instantly wraps it in your custom animated visualizers, automatic on-device captions, and a custom background. Export in 9:16, 1:1, or 16:9. For musicians and DJs, Social Audio Normalization sets the LUFS target platforms expect. For private chats, it transforms boring, invisible media bubbles into personalized, visually captivating micro-videos.
+One take. No timeline. No multi-clip editing. No cloud upload. Done in under a minute. 
 
-Everything runs on your device. No cloud, no account, no tracking. Built in Europe by the indie developer behind [Nuotit](https://nuotit.org).
+Record with high fidelity (32-bit float), watch real-time visualisers, transcribe entirely on-device, and export ready-to-share videos. With saved templates, every future recording applies your look automatically. Built by the European indie developer behind [Nuotit](https://nuotit.org) and [Nootti](https://nootti.com), Lappaa keeps your data private with 100% offline, on-device processing.
 
 ---
 
 ## Key Differentiators
 
-1. **Instant Chat Unboxing (Elevated DMs)** — Transforms invisible, raw media bubbles into personalized, visually captivating micro-videos for apps like WhatsApp or iMessage.
-2. **On-device transcription** — Fast-paced, TikTok-style word-by-word captions generated locally with no internet, no account, and without your audio leaving the device.
-3. **Custom User Templates** — Go from raw media to a finished video in seconds; save your custom layouts in 16:9, 1:1, or 9:16 to post TikTok hot takes or aesthetic brain dumps instantly.
-4. **Social Audio Normalization** — adjusts your audio to the right loudness (-23 to -14 LUFS) so your video never sounds too quiet compared to others on the social feed.
-5. **AI Backgrounds & Voice Isolation** — 100% local AI background generation and live microphone noise filtering.
+1. **The "One-Take" Workflow** — No timelines or multi-clip editing. Save a visual template once, and every future recording goes from capture to export in under a minute.
+2. **Pro Audio Engine & Mastering** — 32-bit float capture, live Voice Isolation, and configurable Social Audio Normalization (-23 to -14 LUFS) ensure audio competes perfectly on social feeds without algorithmic ducking.
+3. **On-Device Privacy** — Recording, transcription, and AI background generation happen 100% offline. Zero cloud uploads, no account required.
+4. **Visual Voice Notes** — Transforms invisible audio files into personalized, captioned videos for messaging apps (WhatsApp, Signal, iMessage) that friends can read on mute.
 
 ---
 
 ## Feature Highlights
 
-- 🎙️ 9 real-time visualizer styles during recording
-- ✂️ multiple animated visualizer styles in the Magic Editor
-- 📐 9:16 (Stories), 1:1 (Square), 16:9 (Landscape) exports — independently saved layouts
-- 📝 On-device automatic transcription → caption overlay
-- 🪄 AI Backgrounds on-device (iPhone 15 Pro+)
-- 🎚️ Social Audio Normalization: -23 to -14 LUFS *(Pro)*
-- 🎵 Import media from Files, Photos, or Clipboard *(Pro)*
-- 🔇 Voice Isolation: live microphone noise filtering
-- ⏱️ 8 aesthetic timer styles (Flip Clock, Nixie, Neon, Analog...)
-- 📐 Full canvas control: pinch-to-zoom, scale, and rotate imported photos and videos
-- 🔗 iOS Share Sheet export to any app
-- 💬 Chat Unboxing — turn raw voice or video notes into visual micro-videos
-- 🔒 100% on-device processing, zero tracking, no account required
-- 🌐 Works fully offline (Airplane Mode)
+- 🎙️ **32-bit float audio engine** with live Voice Isolation
+- ✨ **30+ animated visualiser styles** in the Visual Editor
+- 📐 **Universal Export:** 9:16 (Stories), 1:1 (Square), 16:9 (Landscape) automatic layout reflow
+- 📝 **On-device transcription:** Word-by-word or sentence overlays
+- 🪄 **AI Backgrounds** generated on-device (iPhone 15 Pro+)
+- 🎚️ **Social Audio Normalization:** -23 to -14 LUFS *(Pro)*
+- 🎵 **Media Import:** From Files, Photos, or Clipboard *(Pro)*
+- ✂️ **Auto-Trim:** Intelligently skips silence at the start and end
+- ⏱️ **8 aesthetic timer styles** (Flip Clock, Nixie, Neon, Analog...)
+- 🖼️ **Full canvas control:** Pinch-to-zoom, scale, and rotate imported media
+- 💬 **Direct sharing** to social feeds or private messaging apps
+- 🔒 **Zero tracking, no cloud processing, works fully offline**
 
 ---
 
@@ -90,6 +87,7 @@ Everything runs on your device. No cloud, no account, no tracking. Built in Euro
 ## Contact
 
 For press inquiries, reviews, or partnership opportunities:
+- **Email:** support at lappaa.com
 - **Website:** [lappaa.com](https://lappaa.com)
 - **Reddit:** [r/lappaa](https://www.reddit.com/r/lappaa/)
 - **Bluesky:** [@lappaa.com](https://bsky.app/profile/lappaa.com)
