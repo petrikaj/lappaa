@@ -7,8 +7,8 @@
 <h1 align="center">Lappaa — Voice to Video</h1>
 
 <p align="center">
-  <strong>Give Your Voice a Visual</strong><br>
-  Turn voice recordings, video, and audio into shareable social videos — on your phone, instantly, privately
+  <strong>Capture & Caption in One Take</strong><br>
+  Record or import. Auto-captions, animated visuals, platform-ready export. One take — done in under a minute.
 </p>
 
 <p align="center">
@@ -35,13 +35,11 @@
 
 ## What is Lappaa?
 
-**Lappaa** is an iOS and iPadOS app that transforms voice recordings, videos and audio into eye-catching, captioned social videos. It is built for musicians, artists, DJs, podcasters, and anyone who wants their audio to be seen on social media or chats.
+**Lappaa** is a one-take audio and video tool for iPhone and iPad. Record or import, apply a saved template, trim the ends, and export a platform-ready captioned video in under a minute.
 
-Raw audio is invisible. Post a voice memo or a music snippet without wrapping it in something visual, and it disappears into the feed. Lappaa fixes that by turning your audio into a video that moves, reads, and gets watched — entirely on your device, with zero uploads to the cloud.
+Built for anyone who wants to communicate visually without becoming a video editor — whether you're recording a quick professional update, making a captioned clip, sharing a song idea with visuals, or sending a voice message that friends can actually watch with the sound off.
 
-Record a quick voice note or video, or import an existing media file, apply your custom user-saved visual template (in 9:16, 1:1, or 16:9), add auto-captions, and export to Instagram, TikTok, Youtube, WhatsApp, or any messaging app in seconds. No desktop editing required. That's Lappaa.
-
-Lappaa bridges the gap between raw media and visual social platforms. It gives you the casual, low-effort feel of sending a voice memo, combined with the highly visual, captioned aesthetic required for modern social media feeds.
+Record with high fidelity, watch beautiful real-time visualisers, transcribe entirely on device, and export ready-to-share videos. No cloud upload, no timeline editing, no account required.
 
 > *"Stop sending invisible audio. Your voice deserves to be seen."*
 
@@ -49,13 +47,14 @@ Lappaa bridges the gap between raw media and visual social platforms. It gives y
 
 ## ✨ Key Features
 
-### 🎙️ Record
+### 🎙️ Record or Import
 
-Tap record and watch your voice come alive on screen in real time. Choose from **9 live visualizer styles** — waveforms, radial bars, neon pulses, CRT phosphor lines, spectrum, animated characters and more — so every take already looks the part.
+Capture a fresh thought, or bring in video or audio you already have. If you can hear or watch it, you can use it.
 
-- **Standard mode** — high-quality microphone capture
+- **Standard mode** — high-quality microphone capture with 32-bit float internal processing
 - **Voice Isolation mode** — Apple's system-level mic processing filters background noise in real time, before it even enters the recording
-- Long press the visualizer to switch styles mid-session
+- 9 live visualiser styles — waveforms, radial bars, neon pulses, CRT phosphor lines, spectrum, animated characters, and more
+- Long press the visualiser to switch styles mid-session
 - Long press the timer to choose your aesthetic (Flip Clock, Nixie Tube, Digital LED, Neon, Analog, Retro Terminal...)
 - Double tap the timer to hide it for a clean look
 - "Hey Siri, Start Recording in Lappaa" via App Shortcuts
@@ -65,22 +64,22 @@ Tap record and watch your voice come alive on screen in real time. Choose from *
 
 ### ✂️ Magic Editor
 
-The Magic Editor is a canvas-based video builder designed for extreme speed. Everything moves to your audio, everything is customizable, and everything renders on your device.
+A canvas-based video builder designed for extreme speed. Everything moves to your audio, everything is customisable, and everything renders on your device.
 
-**Animated visualizer styles** — use your own custom user-saved templates or drag, resize, and snap elements anywhere on the canvas. Your layout is saved per aspect ratio so switching never loses your work.
+**Animated visualiser styles** — use your own custom user-saved templates or drag, resize, and snap elements anywhere on the canvas. Your layout is saved per aspect ratio so switching never loses your work.
 
 | Format | Best For |
 |--------|----------|
 | **9:16 Vertical** | Instagram Stories, TikTok, Reels |
-| **1:1 Square** | Feed posts |
-| **16:9 Landscape** | YouTube Shorts, presentations |
+| **1:1 Square** | Feed posts & chat previews |
+| **16:9 Landscape** | YouTube, LinkedIn, presentations |
 
-**Canvas elements:** Header, subheader, caption block, and visualizer, and imported media — all moveable, resizable, and styleable.
+**Canvas elements:** Header, subheader, caption block, visualiser, and imported media — all moveable, resizable, scaleable, rotatable, and styleable.
 
 **Backgrounds:**
 
-- Solid color (any hex value)
-- Your own photo (with Gaussian blur slider)
+- Solid colour (any hex value)
+- Your own photo or video (with Gaussian blur slider)
 - **AI Backgrounds** ✨ *(iPhone 15 Pro and newer)*
 
 **Typography:** System, Rounded, Serif, or Mono — with weight and alignment controls.
@@ -90,13 +89,20 @@ The Magic Editor is a canvas-based video builder designed for extreme speed. Eve
 ### 🪄 Magic Features
 
 **On-Device Transcription**
-Spoken words become captions automatically — no internet needed, nothing leaves your phone. Edit segments, adjust timing, search and replace, split long captions, and export as `.srt` or plain text (or raw audio).
+Spoken words become captions automatically — no internet needed, nothing leaves your phone. Choose between sentences or word-by-word style. Edit segments, adjust timing, search and replace, split long captions, and export as `.srt` or plain text.
 
 **AI Backgrounds** *(iPhone 15 Pro+)*
 Lappaa reads the mood and content of your transcript using a local AI model, then generates a matching background image — entirely on your device. No prompt needed. No cloud API. Your words stay yours.
 
-**Loudness Normalization (LUFS)** *(Lappaa Pro)*
-Measures your audio's loudness and normalizes it to your chosen target — adjustable from **-23 LUFS** (broadcast standard) to **-14 LUFS** (streaming-optimized). A safety limiter prevents distortion. This ensures your video plays correctly in social algorithms (Note: this is optimized for social media consumption, not lossless studio mastering).
+**Loudness Normalisation (LUFS)** *(Lappaa Pro)*
+Measures your audio's loudness and normalises it to your chosen target — adjustable from **-23 LUFS** (broadcast standard) to **-14 LUFS** (streaming-optimised). A safety limiter prevents distortion.
+
+| Platform Target | Recommended LUFS | Notes |
+|----------------|-----------------|-------|
+| Instagram Reels | -14 to -16 LUFS | Prevents algorithmic volume ducking |
+| TikTok | -13 to -14 LUFS | Favours louder, compressed audio |
+| YouTube Shorts | -13 to -14 LUFS | Normalised to target on upload |
+| Podcast / Talk | -23 LUFS | EBU R128 broadcast standard |
 
 ### 🎵 Import Media *(Lappaa Pro)*
 
@@ -110,63 +116,61 @@ Great for musicians and DJs who want to take an existing recording, beat, or ses
 
 ### 📤 Share
 
-Export and the iOS Share Sheet takes over — send directly to Instagram, TikTok, Youtube, WhatsApp, Signal, Telegram, iMessage, or save to Files and Photos. Optional auto-save to your Photo Library on every export.
+Export and the iOS Share Sheet takes over — send directly to Instagram, TikTok, YouTube, WhatsApp, Signal, Telegram, iMessage, or save to Files and Photos. Optional auto-save to your Photo Library on every export.
 
 ---
 
-## 💬 Elevating Private Voice Notes (DMs & Chats)
+## 🗂️ Saved Templates
 
-Voice notes are everywhere — WhatsApp, Instagram DMs, Signal, Telegram, iMessage — but they're often inconvenient. When someone receives an audio note, they usually have to pause their music, find a quiet place, or dig out headphones. Without this extra step, the audio just sits there ignored.
+Set your visual look once — background, font, visualiser, caption style, aspect ratio — and save it as a template. Every future recording applies it automatically. After recording, the only decision is where to trim.
 
-Lappaa introduces an **"unboxing"** for raw media. It turns your voice note or video into a **chat video** — a short, captioned clip friends can "watch" silently. You unbox the context for them. Send it like any other video. It makes raw media much more engaging and impossible to ignore.
-
-Great for quick updates, or turning a long update into an **Aesthetic "Brain Dump"**. Instead of typing out notes, you record your thoughts, add a personal photo or AI background that matches your mood, and effectively turn standard voice memos into "notes that stick" or aesthetic mini-vlogs.
+Templates are optional. You can always record, adjust in the editor, and send with no template saved. But once you find a look, templates make the editor optional too.
 
 ---
 
-## 📱 For Creators, Musicians & Professionals
+## 💬 What People Use It For
 
-Lappaa is built for anyone who wants to post engaging audio content quickly without becoming a video editor.
+**Professional Updates**
+Record a quick thought, apply your branded template, and export a captioned 1:1 video for LinkedIn or your team. No typing required.
 
-**Instant Content for TikTok & Reels:** For casual or aspiring creators, Lappaa acts as an on-the-go "audiogram" creator. Record a quick rant, storytime, or hot take, and Lappaa instantly generates an aesthetically pleasing 9:16 video with fast-paced, word-by-word captions (the style popular on TikTok), AI-generated backgrounds, and visualizers.
+**Quick Clips for Your Feed**
+Grab a moment from your podcast. Turn a music idea into something shareable. Post a 9:16 rant with word-by-word captions synced to your audio.
 
-**Sharing Music Ideas & Audio Drops:** Sharing a raw audio file directly to social media is notoriously difficult because platforms require a video format. Import a voice memo of a song idea, a beat preview, a podcast snippet, or a marketing tip. Apply a **music-reactive visualizer** that actually moves to the audio. 
+**Voice Messages That Don't Get Ignored**
+Stop sending invisible audio files. Send something friends can watch even with the sound off on WhatsApp, Signal, iMessage, or Telegram. It plays like a video, reads like a caption, and lands like a personal message.
 
-**The YouTube Music Video Problem:** Creating a full 16:9 music video or podcast visualization for YouTube typically demands huge effort, expensive software, and hours of rendering. Lappaa offers a low-effort alternative: import your master track directly, apply a custom stylish image background and 16:9 visualizer template, normalize the loudness to play correctly on the platform, and upload a high-quality visual video to YouTube directly from your phone in minutes.
+---
 
-| Platform Target | Recommended LUFS | Notes |
-|----------------|-----------------|-------|
-| Instagram Reels | -14 to -16 LUFS | Prevents algorithmic volume ducking |
-| TikTok | -13 to -14 LUFS | Favors louder, compressed audio |
-| YouTube Shorts | -13 to -14 LUFS | Normalized to target on upload |
-| Podcast / Talk | -23 LUFS | EBU R128 broadcast standard |
+## What It's Not
 
-No desktop software. No browser tab juggling. No cloud rendering wait times.
+Lappaa is not a multi-clip editor. There is no timeline of cuts, no colour grading, no multi-track audio. It is built for single takes — you say it once and the result looks intentional.
+
+If you need to assemble clips from multiple sources, **CapCut** or **Instagram Edits** are the right tools. If you need screen recording and camera overlays for walkthroughs, **Loom** is built for that. Lappaa is what you reach for when you don't need any of that — when the content is your voice and the job is making it watchable.
 
 ---
 
 ## 📊 Feature Comparison
 
-| Feature | Lappaa | CapCut | Wavve | Headliner | OpusClip | Descript |
-|---------|:------:|:------:|:-----:|:---------:|:--------:|:--------:|
-| **Mobile-Native Editing** | ✅ iOS | ✅ iOS/Android | ❌ Browser | ✅ iOS/Android | ❌ Browser | ❌ Companion App |
-| **Record Audio** | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
-| **Voice Isolation** | ✅ Live input | ✅ Post-processing| ❌ | ❌ | ❌ | ✅ Post-processing|
-| **Animated Visualizers** | ✅ 17 Styles | ⚠️ Basic & 3rd party| ⚠️ Template dependent| ✅ 13+ Styles | ❌ | ❌ |
-| **On-Device Transcription** | ✅ | ❌ Cloud | ❌ Cloud | ❌ Cloud | ❌ Cloud | ❌ Cloud |
-| **Social LUFS Targets** | ✅ -23 to -14 | ⚠️ Auto-Leveling | ❌ | ❌ | ❌ | ✅ |
-| **AI Backgrounds** | ✅ On-device | ❌ Cloud req. | ❌ | ❌ | ❌ | ❌ |
-| **No Cloud Processing** | ✅ 100% On-device| ❌ Uses Cloud | ❌ | ❌ | ❌ | ❌ |
-| **Privacy (No Uploads)** | ✅ Zero | ❌ ByteDance | ❌ | ❌ | ❌ | ❌ Server req. |
+| Feature | Lappaa | CapCut | IG Edits | Wavve | Headliner | OpusClip | Descript |
+|---------|:------:|:------:|:--------:|:-----:|:---------:|:--------:|:--------:|
+| **Mobile-Native Editing** | ✅ iOS | ✅ iOS/Android | ✅ iOS/Android | ❌ Browser | ✅ iOS/Android | ❌ Browser | ❌ Companion App |
+| **Record Audio** | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ |
+| **Voice Isolation** | ✅ Live input | ✅ Post-processing | ✅ Post-processing | ❌ | ❌ | ❌ | ✅ Post-processing |
+| **Animated Visualisers** | ✅ 30+ Styles | ⚠️ Basic & 3rd party | ❌ | ⚠️ Template dependent | ✅ 13+ Styles | ❌ | ❌ |
+| **On-Device Transcription** | ✅ | ❌ Cloud | ❌ Cloud | ❌ Cloud | ❌ Cloud | ❌ Cloud | ❌ Cloud |
+| **Social LUFS Targets** | ✅ -23 to -14 | ⚠️ Auto-Leveling | ⚠️ Auto-Enhance | ❌ | ❌ | ❌ | ✅ |
+| **AI Backgrounds** | ✅ On-device | ❌ Cloud req. | ❌ | ❌ | ❌ | ❌ | ❌ |
+| **No Cloud Processing** | ✅ 100% On-device | ❌ Uses Cloud | ❌ Uses Cloud | ❌ | ❌ | ❌ | ❌ |
+| **Privacy (No Uploads)** | ✅ Zero | ❌ ByteDance | ❌ Meta | ❌ | ❌ | ❌ | ❌ Server req. |
 
-**Lappaa is the dedicated mobile-native originator combining instant audio visualizers, on-device transcription, configurable social loudness normalization, and absolute offline privacy.**
+**Lappaa is the dedicated mobile-native originator combining instant audio visualisers, on-device transcription, configurable social loudness normalisation, and absolute offline privacy.**
 
 ---
 
 ## 💰 Pricing
 
 **Free — most of the app is free:**
-Core recording, 9 live visualizer styles, editor visualizer styles, canvas editor, on-device transcription, AI Backgrounds (on supported devices), all aspect ratios, and export to social — with a watermark.
+Core recording, 9 live visualiser styles, editor visualiser styles, canvas editor, on-device transcription, AI Backgrounds (on supported devices), all aspect ratios, and export — with a watermark.
 
 **Lappaa Pro** unlocks:
 
@@ -216,7 +220,7 @@ See [**PRESS_KIT.md**](PRESS_KIT.md) for app descriptions, key facts, downloadab
 
 This repository includes machine-readable documentation for AI systems:
 
-- [`llms.txt`](llms.txt) — Standardized AI context file following the [llms.txt standard](https://llmstxt.org/)
+- [`llms.txt`](llms.txt) — Standardised AI context file following the [llms.txt standard](https://llmstxt.org/)
 - [`lappaa.md`](lappaa.md) — Complete feature documentation and guide
 
 The canonical documentation is always available at:
@@ -234,8 +238,15 @@ The canonical documentation is always available at:
 
 ## 📋 Also See
 
-- [**Awesome Audio-to-Video Apps**](awesome-audio-video-apps/) — A curated list of tools for turning audio into social-ready video
-- [**Lappaa vs. Alternatives**](compare/) — Detailed head-to-head comparisons with other tools
+- [**Awesome Audio-to-Video Apps**](awesome-audio-video-apps/README.md) — A curated list of tools for turning audio into social-ready video
+- [**Lappaa vs. CapCut**](compare/lappaa-vs-capcut.md) — One-take mobile creator vs. multi-clip video editor
+- [**Lappaa vs. Instagram Edits**](compare/lappaa-vs-edits.md) — One-take audio/video vs. Meta short-form editor
+- [**Lappaa vs. Loom**](compare/lappaa-vs-loom.md) — Mobile-first voice/video vs. desktop screen recording
+- [**Lappaa vs. Wavve**](compare/lappaa-vs-wavve.md) — On-device creation vs. browser-based audiogram tool
+- [**Lappaa vs. Headliner**](compare/lappaa-vs-headliner.md) — Instant mobile creation vs. cloud-based promotion suite
+- [**Lappaa vs. OpusClip**](compare/lappaa-vs-opusclip.md) — Mobile content originator vs. AI video repurposing tool
+- [**Lappaa vs. Descript**](compare/lappaa-vs-descript.md) — Mobile visual creator vs. desktop transcript editor
+- [**Lappaa vs. Rotor Videos**](compare/lappaa-vs-rotorvideos.md) — Instant mobile visualizer vs. AI music video generation
 
 ---
 
